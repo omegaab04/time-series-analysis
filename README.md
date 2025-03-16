@@ -1,4 +1,4 @@
-# Time-Series-Analysis
+# Time Series Analysis using Prophet
 
 This project explores **time series forecasting** using **Meta's Prophet** package in R. The analysis focuses on financial data, particularly **Northrop Grumman's stock prices** and other S&P 500 stocks, to detect trends, seasonality, and future projections.
 
