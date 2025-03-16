@@ -4,7 +4,7 @@ This project explores **time series forecasting** using **Meta's Prophet** packa
 
 ## 📂 Files in This Repo
 - **`Time Series Prophet.Rmd`** – The main R Markdown file containing the data analysis and forecasting. Feel free to copy the code and edit it in your local environment if you are interested.
-- **`Time-Series-Prophet.html.zip`** – The rendered HTML report. Just unzip the html file to view if you are
+- **`Time-Series-Prophet.html.zip`** – The rendered HTML report. Just unzip the html file to view if you are not inetersted in knitting the rmd. 
 
 ## 🔧 Installation & Setup
 To run this project, ensure you have the necessary dependencies installed in R:
