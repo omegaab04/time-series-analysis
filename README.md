@@ -25,7 +25,7 @@ install.packages("quantmod")
 
 ## 📌 Key Features
 - **Forecasting stock prices** using Prophet.
-- **Time series decomposition** to analyze trends and seasonality.
+- **Time series decomposition** to analyse trends and seasonality.
 - **Log return calculations** for financial time series analysis.
 - **Visualisation of predictions** using base R plots.
 
