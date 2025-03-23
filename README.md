@@ -14,8 +14,8 @@ install.packages("prophet")
 install.packages("quantmod")
 ```
 
-## 📈 How to Run the Analysis
-1. **Clone this repository**:
+## How to Run the Analysis
+1. **Clone this repo**:
    ```sh
    git clone https://github.com/omegaab04/Time-Series-Analysis.git
    cd Time-Series-Analysis
@@ -23,7 +23,7 @@ install.packages("quantmod")
 2. **Open the R Markdown file** (`.Rmd`) in RStudio.
 3. **Knit the document** to generate the HTML report.
 
-## 📌 Key Features
+## Key Features
 - **Forecasting stock prices** using Prophet.
 - **Time series decomposition** to analyse trends and seasonality.
 - **Log return calculations** for financial time series analysis.
